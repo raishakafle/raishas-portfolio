@@ -1,0 +1,34 @@
+
+:root {
+    --color-body: #b6cbce;
+    --color-heading: #eef3db;
+    --color-base: #cd7faf;
+    --color-base2: #e594c6;
+    --color-brand: #f2f7e0;
+    --color-brand2: #96d6f4;
+    --sidbar-width: 240px;
+    --font-base: "Yrsa";
+}
+
+.navbar {
+    background-color: var(--color-base);
+}
+
+.navbar-brand {
+    color: var(--color-heading);
+}
+
+.navbar .nav-link {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.navbar .nav-link:hover {
+    color: var(--color-brand);
+}
+
+.navbar .nav-link.active {
+    color: var(--color-brand);
+}
+
