@@ -45,10 +45,27 @@
 //     width: 100%;
 // }
 
+
 // CSS for all pages
-body{
-    color: purple;
-}
+// body{
+//     color: purple;
+// }
+
+// :root {
+//     --color-body: #b6cbce;
+//     --color-heading: #eef3db;
+//     --color-base: #cd7faf;
+//     --color-base2: #e594c6;
+//     --color-brand: #f2f7e0;
+//     --color-brand2: #96d6f4;
+//     --sidbar-width: 240px;
+//     --font-base: "Yrsa";
+// }
+
+// body {
+
+//     background-color: var(--color-base2);
+// }
 
 img{
     width: 80%;
@@ -68,5 +85,5 @@ img{
 }
 
 a:hover {
-    color: rgb(70, 42, 54);
+    color: rgb(230, 165, 193);
 }
