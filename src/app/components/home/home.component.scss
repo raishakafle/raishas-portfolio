@@ -67,6 +67,7 @@ body {
     background-color: var(--color-base2);
 }
 
+
 img{
     width: 80%;
     height: auto;
@@ -74,10 +75,20 @@ img{
 
 .custom-padding{
     margin-top: 50px;
+    
+}
+
+.padding-para{
+    padding-left: 100px;
 }
 
 .custom-button{
     background-color: rgb(223, 113, 181);
+}
+
+.button-custom{
+    background-color: #eaf3c7;
+   
 }
 
 .custom-space{
@@ -86,4 +97,14 @@ img{
 
 a:hover {
     color: rgb(230, 165, 193);
+}
+
+.custom-text{
+    color:#94315a;
+    font-weight: bolder;
+}
+
+.resume{
+    font-size: 500;
+    font-weight: bold;
 }
